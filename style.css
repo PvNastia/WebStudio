@@ -1,0 +1,133 @@
+h3{
+    margin-left: 80px;
+    font-size: 26px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-block;
+}
+a {
+    text-decoration: none;
+    margin-left: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 71px;
+    font-size: 14;
+}
+.a1{
+    margin-left: 93px;
+    font-size: 14;
+    color: #212121;
+    display: inline-block;
+}
+.a2{
+font-size: 14;
+color: #212121;
+display: inline-block;
+}
+.a3{
+    font-size: 14;
+    color: #212121;
+    display: inline-block;
+}
+.img1 {
+    margin-left: 150px;
+}
+.img2 {
+    margin-left: 30px;
+}
+.img3{
+    margin-left: 30px;
+}
+h1{
+    text-align: center;
+    padding-top: 15% ;
+    font-size: 36px;
+    color: #FFFFFF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+    text-align: center;
+    font-size: 36px;
+}
+button {
+    margin: 0 auto;
+    display: block;
+    background-color: #2196F3;
+    color: #FFFFFF;
+    
+  }
+  footer{
+    background-color: #2F303A;
+  }
+  
+  .table2{
+    width: 100%;
+    height: 40%;
+  }
+  th{
+    text-align: center;
+  }
+  td{
+    text-align: center;
+  }
+  .blockone{
+    height: 500px;
+    background-color: #2F303A;
+    text-align: center;
+  }
+  span{
+    color: #2196F3;
+  }
+  .h31{
+    color: #000000;
+  }
+  .h32{
+    color: #FFFFFF;
+  }
+  .div{
+    display: inline-block;
+  }
+  .div1{
+    margin-left: 80px;
+    margin-top: 94px;
+    display: inline-block;
+  }
+  .div2{
+    margin-top: 94px;
+    margin-left: 30px;
+    display: inline-block;
+  }
+  .div3{
+   margin-top: 94px;
+   margin-left: 30px;
+   display: inline-block;
+  }
+  .div4{
+    margin-top: 94px;
+    margin-left: 30px;
+    display: inline-block;
+  }
+  p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14;
+  }
+  .mail{
+    text-decoration: none;
+    margin-left: 215px;
+ color: #FFFFFF99;
+}
+  .tel{
+    text-decoration: none;
+    margin-left: 215px;
+    color: #FFFFFF99;
+  }
+  .mail1{
+    text-decoration: none;
+ color: #000000;
+}
+  .tel1{
+    text-decoration: none;
+    color: #000000;
+  }
+  .p1{
+    margin-left: 215px;
+    color: #FFFFFF;
+  }
